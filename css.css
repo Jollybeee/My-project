@@ -1,0 +1,30 @@
+.code-nav {
+    background-color: #f1f1f1;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 18px;
+  }
+  
+  .code-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .code-nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .code-nav li:last-child {
+    margin-right: 0;
+  }
+  
+  .code-nav a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .code-nav a:hover {
+    color: #000;
+  }
